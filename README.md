@@ -26,8 +26,12 @@ The ciphers are implemented as functions and can be used programmatically or thr
 ### How to Run
 
 git clone https://github.com/your-username/caesar-vigenere-ciphers.git
+
 cd caesar-vigenere-ciphers
+
 python ciphers.py
+
+
 
 #Contributing
 Contributions are welcome! If you'd like to improve the ciphers or add new features, please fork the repository and submit a pull request.
