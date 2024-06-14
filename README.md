@@ -8,7 +8,6 @@ This repository contains Python implementations of two classical encryption tech
 - [Vigenère Cipher](#vigenère-cipher)
 - [Usage](#usage)
 - [How to Run](#how-to-run)
-- [Contributing](#contributing)
 
 ## Caesar Cipher
 
@@ -30,11 +29,6 @@ git clone https://github.com/your-username/caesar-vigenere-ciphers.git
 cd caesar-vigenere-ciphers
 
 python ciphers.py
-
-
-
-#Contributing
-Contributions are welcome! If you'd like to improve the ciphers or add new features, please fork the repository and submit a pull request.
 
 
 
